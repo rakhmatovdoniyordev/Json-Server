@@ -1,0 +1,34 @@
+{
+  "post": [
+    {
+      "firstname": "Boburmirzo",
+      "lastname": "Rasulov",
+      "age": "26",
+      "email": "Boburmirzo98@gmail.com",
+      "phone": "+998900010101",
+      "occupation": "Mentor",
+      "gender": "male",
+      "id": "def6"
+    },
+    {
+      "firstname": "Shahlo",
+      "lastname": "Akbarova",
+      "age": "20",
+      "email": "Akbarovash@gmail.com",
+      "phone": "+998911111111",
+      "occupation": "O'qituvchi",
+      "gender": "female",
+      "id": "2c5e"
+    },
+    {
+      "id": "b137",
+      "firstname": "Jahongir",
+      "lastname": "Elbekov",
+      "age": "18",
+      "email": "Jahongir001@gmail.com",
+      "phone": "+998974210303",
+      "occupation": "Bankir",
+      "gender": "male"
+    }
+  ]
+}
